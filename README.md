@@ -18,10 +18,3 @@ Se requiere diseñar e implementar una base de datos que permita administrar los
 * Código SQL de la inserción de datos en cada una de las tablas del modelo relacional, se deberán insertar al menos 20 registros por tabla 
 * Programar en Java lo requerido, además de la interfaz y poder conectarse a la base de datos, adempas de consultar la información de cada uno de los reportes 
 
-
-
-
-
-
-
-[A[A[A[A[A[B[D[A[F[B[F[B[C[C[C[C[C[C[C[C[C[C[lo
